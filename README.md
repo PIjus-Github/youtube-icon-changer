@@ -2,7 +2,7 @@
 Plugin which changes new YouTube icons into the old ones.
 ![Test](readme/preview.PNG)
 # Installation
-Right-click on Code, and click Download ZIP.
+You can download the plugin under the name of ***yt-icon-changer.js*** [here](https://github.com/Peeeaaayus/youtube-icon-changer/releases).
 Once it has downloaded, install ***yt-icon-changer.js*** with [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo),
 [OrangeMonkey](https://chrome.google.com/webstore/detail/orangemonkey/ekmeppjgajofkpiofbebgcbohbmfldaf), [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), etc.
 
