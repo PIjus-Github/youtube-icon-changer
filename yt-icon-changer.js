@@ -13,7 +13,7 @@
 // @include       http://*.youtube.com/*
 // @include       https://*.youtube.com/*
 // @run-at        document-start
-// @version       0.20200812202821
+// @version       0.20201003
 // ==/UserScript==
 (function() {var css = "";
 if (false || (document.domain == "youtube.com" || document.domain.substring(document.domain.indexOf(".youtube.com") + 1) == "youtube.com"))
@@ -39,7 +39,7 @@ if (false || (document.domain == "youtube.com" || document.domain.substring(docu
 		"}",
 		"",
 		"ytd-menu-renderer ytd-toggle-button-renderer.style-default-active[is-icon-button]:nth-of-type(1) {",
-		" background-image: url(\"https://cdn.discordapp.com/attachments/894198606519738411/894203525800800256/like-clicked.png\") !important;",
+		" background-image: url(\"https://cdn.discordapp.com/attachments/894198606519738411/894207076530802709/like-clicked.png\") !important;",
 		" background-size: 25px;",
 		" background-repeat: no-repeat;",
 		" background-position: 0px 18px !important;",
@@ -49,7 +49,7 @@ if (false || (document.domain == "youtube.com" || document.domain.substring(docu
 		" transition-delay: 0s, .5s;",
 		"} /* Liked button */",
 		"ytd-menu-renderer ytd-toggle-button-renderer.style-default-active[is-icon-button]:nth-of-type(2) {",
-		" background-image: url(\"https://cdn.discordapp.com/attachments/894198606519738411/894203525800800256/like-clicked.png\") !important;",
+		" background-image: url(\"https://cdn.discordapp.com/attachments/894198606519738411/894207076530802709/like-clicked.png\") !important;",
 		" background-size: 25px;",
 		" background-repeat: no-repeat;",
 		" background-position: 0px;",
@@ -76,7 +76,7 @@ if (false || (document.domain == "youtube.com" || document.domain.substring(docu
 		"}",
 		"",
 		"ytd-toggle-button-renderer.style-default-active[is-icon-button]:nth-of-type(1) {",
-		" background-image: url(\"https://cdn.discordapp.com/attachments/894198606519738411/894203525800800256/like-clicked.png\") !important;",
+		" background-image: url(\"https://cdn.discordapp.com/attachments/894198606519738411/894200086580568086/dislike.PNG") !important;",
 		" background-size: 25px;",
 		" background-repeat: no-repeat;",
 		" background-position: 5px 11px !important;",
@@ -87,7 +87,7 @@ if (false || (document.domain == "youtube.com" || document.domain.substring(docu
 		"}",
 		"    ",
 		"ytd-toggle-button-renderer.style-default-active[is-icon-button]:nth-of-type(2) {",
-		"    background-image: url(\"https://cdn.discordapp.com/attachments/894198606519738411/894203525800800256/like-clicked.png\") !important;",
+		"    background-image: url(\"https://cdn.discordapp.com/attachments/894198606519738411/894207092032946237/dislike-clicked.png") !important;",
 		"    background-size: 25px;",
 		" 	background-repeat: no-repeat;",
 		" 	transform: rotate(180deg);",
