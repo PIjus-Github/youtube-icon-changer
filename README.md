@@ -1,2 +1,4 @@
 # youtube-icon-changer
 Plugin which changes new YouTube icons into the old ones.
+# Changelog
+v0.0.1: Just released. Currently only likes work, with placeholder images.
