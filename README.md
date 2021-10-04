@@ -9,6 +9,7 @@ Once it has downloaded, install ***yt-icon-changer.js*** with [TamperMonkey](htt
 Now you should be able to use it properly.
 # Changelog
 v0.1: Just released. Currently only likes & dislikes work, with placeholder icons.
+
 v0.1.1: Replaced placeholder icons with the usual ones.
 # Report Bugs
 If you find bugs, please do NOT hestitate to **[report them](https://github.com/Peeeaaayus/youtube-icon-changer/issues)**.
