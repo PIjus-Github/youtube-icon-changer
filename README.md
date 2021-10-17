@@ -12,7 +12,7 @@ v0.1: Just released. Currently only likes & dislikes work, with placeholder icon
 
 v0.1.1: Replaced placeholder icons with the usual ones.
 # Report Bugs
-If you find bugs, please do NOT hestitate to **[report them](https://github.com/Peeeaaayus/youtube-icon-changer/issues)**.
+If you find bugs, please do NOT hestitate to **[report them](https://github.com/Peeeaaayus/youtube-icon-changer/issues)**. You can also suggest features as well.
 
 # Contribution
-If you want to contribute, read [this] (https://github.com/Peeeaaayus/youtube-icon-changer/blob/main/CONTRIBUTING.md) first.
+If you want to contribute, read **[this](https://github.com/Peeeaaayus/youtube-icon-changer/blob/main/CONTRIBUTING.md)** first.
