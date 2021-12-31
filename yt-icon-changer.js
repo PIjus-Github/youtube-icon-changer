@@ -3,7 +3,7 @@
 // @namespace     http://github.com
 // @description	  Changes the new icons into the old ones
 // @author        PIjus
-// @homepage      https://github.com/Peeeaaayus/youtube-icon-changer
+// @homepage      https://github.com/Peeyos1/youtube-icon-changer
 // @include       http://youtube.com/*
 // @include       https://youtube.com/*
 // @include       http://*.youtube.com/*
